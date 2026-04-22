@@ -2,7 +2,7 @@
 permalink: /
 title: "Introduction"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -21,3 +21,8 @@ Skills
 - **编程语言**：Python、C++、Java
 - **深度学习**：PyTorch、TensorFlow
 - **工具**：Git、Docker、Linux
+
+Publication
+======
+
+- 待添加
