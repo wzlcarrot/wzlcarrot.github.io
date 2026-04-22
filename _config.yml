@@ -27,8 +27,11 @@ author:
   location         :
   employer         :
   uri              :
-email            :
+  email            : "your@email.com"
   github           : "wzlcarrot"
+  csdn             : "your-csdn"
+  qq               : "your-qq-number"
+  zhihu            : "your-zhihu"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
