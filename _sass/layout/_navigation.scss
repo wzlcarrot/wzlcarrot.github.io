@@ -442,3 +442,22 @@
     }
   }
 }
+
+.masthead__menu-item--right {
+  display: flex !important;
+  margin-left: auto;
+  
+  li {
+    display: table-cell;
+    vertical-align: middle;
+  }
+  
+  #theme-toggle {
+    a {
+      width: 25px;
+      display: flex;
+      justify-content: center;
+      cursor: pointer;
+    }
+  }
+}
