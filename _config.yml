@@ -29,9 +29,9 @@ author:
   uri              :
   email            : "your@email.com"
   github           : "wzlcarrot"
-  csdn             : "your-csdn"
   qq               : "your-qq-number"
   zhihu            : "your-zhihu"
+  wechat           : "your-wechat-id"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
